@@ -20,9 +20,9 @@ VRChat用の2Dアバターです。
 
 部分部分でライセンスが異なりますが、基本的にその中で一番厳しいMITライセンスに従っておくと大体オッケーな気がします。
 
-### まんまるシェーダー3（Assets/MMS3）
+### Reflex Shader 2（Assets/Reflex Shader 2）
 
-[MIT License](Assets/MMS3/LICENSE)
+[MIT License](Assets/Reflex%20Shader%202/LICENSE)
 
 ### シェルデータ（Assets/g01-normalize）
 
