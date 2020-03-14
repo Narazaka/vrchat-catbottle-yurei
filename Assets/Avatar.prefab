@@ -3665,7 +3665,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: 
-  ViewPosition: {x: 0, y: 1.17, z: 0}
+  ViewPosition: {x: 0, y: 1.17, z: 0.17}
   Animations: 0
   CustomStandingAnims: {fileID: 22100000, guid: 82b7cb0ee979e3c4f91f909c31709e7a,
     type: 2}
