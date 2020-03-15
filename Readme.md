@@ -73,7 +73,7 @@ VRChat用の2Dアバターです。
 ・違法な行為への使用
 ```
 
-### Assets/AvatarBase.fbx
+### ボーンを使っているfbx（Assets/AvatarBase.fbx）
 
 ```
 Copyright (c) 2020 Narazaka
