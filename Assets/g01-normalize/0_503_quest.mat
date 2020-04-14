@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: 0_503_quest
-  m_Shader: {fileID: 4800000, guid: d5b89f0c74ccf5049ba803c14a090378, type: 3}
+  m_Shader: {fileID: 4800000, guid: affc81f3d164d734d8f13053effb1c5c, type: 3}
   m_ShaderKeywords: _BASECOLOR_MIX_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
@@ -68,7 +68,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 86fe99e205b553a46ba72ea6fbe4dfad, type: 3}
+        m_Texture: {fileID: 2800000, guid: fdd3a069b4e68ce42be756fd3fcbd9cd, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Matcap:
